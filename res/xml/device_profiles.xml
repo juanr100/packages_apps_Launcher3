@@ -125,17 +125,17 @@
 
         <display-option
             launcher:name="Large Phone"
-            launcher:minWidthDps="406"
-            launcher:minHeightDps="694"
-            launcher:iconImageSize="57"
+            launcher:minWidthDps="360"
+            launcher:minHeightDps="780"
+            launcher:iconImageSize="61"
             launcher:iconTextSize="14.4"
             launcher:canBeDefault="true" />
 
         <display-option
             launcher:name="Large Phone Split Display"
-            launcher:minWidthDps="406"
-            launcher:minHeightDps="694"
-            launcher:iconImageSize="56"
+            launcher:minWidthDps="360"
+            launcher:minHeightDps="780"
+            launcher:iconImageSize="61"
             launcher:iconTextSize="14.4"
             launcher:canBeDefault="true" />
 
