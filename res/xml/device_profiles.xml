@@ -127,7 +127,7 @@
             launcher:name="Large Phone"
             launcher:minWidthDps="360"
             launcher:minHeightDps="780"
-            launcher:iconImageSize="61"
+            launcher:iconImageSize="63"
             launcher:iconTextSize="14.4"
             launcher:canBeDefault="true" />
 
