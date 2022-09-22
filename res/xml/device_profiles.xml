@@ -120,7 +120,7 @@
         launcher:numFolderRows="4"
         launcher:numFolderColumns="4"
         launcher:numHotseatIcons="4"
-        launcher:dbFile="launcher_4_by_5.db"
+        launcher:dbFile="launcher.db"
         launcher:defaultLayoutId="@xml/default_workspace_4x5" >
 
         <display-option
@@ -129,6 +129,8 @@
             launcher:minHeightDps="780"
             launcher:iconImageSize="63"
             launcher:iconTextSize="14.4"
+            launcher:allAppsBorderSpace="16"
+            launcher:allAppsCellHeight="104"
             launcher:canBeDefault="true" />
 
         <display-option
@@ -137,6 +139,8 @@
             launcher:minHeightDps="780"
             launcher:iconImageSize="61"
             launcher:iconTextSize="14.4"
+            launcher:allAppsBorderSpace="16"
+            launcher:allAppsCellHeight="104"
             launcher:canBeDefault="true" />
 
         <display-option
@@ -145,6 +149,8 @@
             launcher:minHeightDps="400"
             launcher:iconImageSize="48"
             launcher:iconTextSize="13.0"
+            launcher:allAppsBorderSpace="16"
+            launcher:allAppsCellHeight="104"
             launcher:canBeDefault="true" />
 
     </grid-option>
@@ -156,7 +162,7 @@
         launcher:numFolderRows="4"
         launcher:numFolderColumns="4"
         launcher:numHotseatIcons="5"
-        launcher:dbFile="launcher.db"
+        launcher:dbFile="launcher_5_by_5.db"
         launcher:defaultLayoutId="@xml/default_workspace_5x5"
         launcher:deviceCategory="phone|multi_display" >
 
