@@ -447,4 +447,8 @@
     
     <string name="pref_suggestions_title">Suggestions</string>
     <string name="pref_suggestions_summary">For all Apps and Home screen</string>
+    
+    <string name="label_search">Search</string>
+    <string name="label_lens">Google Lens</string>
+    <string name="label_voice_search">Voice search</string>
 </resources>
