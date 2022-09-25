@@ -18,8 +18,9 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/tabs"
     android:layout_width="match_parent"
-    android:layout_height="@dimen/all_apps_header_pill_height"
+    android:layout_height="60dp"
     android:layout_gravity="center_horizontal"
+    android:paddingTop="@dimen/all_apps_work_profile_tab_top_padding"
     android:orientation="horizontal"
     style="@style/TextHeadline">
 
